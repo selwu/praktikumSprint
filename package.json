@@ -1,0 +1,24 @@
+{
+  "name": "praktikumlearn",
+  "version": "1.0.0",
+  "description": "Практические задачи из Практикум",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selwu/praktikumLearn.git"
+  },
+  "author": "Sasha Dolgikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selwu/praktikumLearn/issues"
+  },
+  "homepage": "https://github.com/selwu/praktikumLearn#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
